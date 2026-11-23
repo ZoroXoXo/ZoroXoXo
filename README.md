@@ -1,69 +1,80 @@
-# Hey, I'm Paarth 👋
+<div align="center">
 
-**Computer Science Undergraduate | C++ · Linux Systems · Quantitative Computing · Applied AI**
+```text
+    ╔══════════════════════════════════════╗
+    ║             P A A R T H              ║
+    ╚══════════════════════════════════════╝
+```
 
-I'm a Computer Science student specializing in Artificial Intelligence, with an interest in systems programming, performance engineering, and building practical software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2200&pause=900&color=00E5A0&center=true&vCenter=true&width=520&lines=%3E+initializing+developer...;%3E+loading+curiosity.exe;%3E+building+something+unnecessary;%3E+okay%2C+maybe+it+was+necessary." alt="Animated terminal header" />
 
-I enjoy working across different layers of computing, from low-level C++ and Linux utilities to numerical experimentation and AI applications.
+**`C++`** · **`Linux`** · **`Quant`** · **`AI`**
 
-Currently focused on strengthening my fundamentals, exploring systems architecture, and building software that solves real problems.
+</div>
 
----
+### `~/about`
 
-### 🛠️ Technical Stack
+```text
+┌─ paarth@archlinux ──────────────────────┐
+│           |                             │
+│  role     | CS undergrad                │
+│  os       | Arch Linux + i3             │
+│  languages| C++ / Python / Rust         │
+│  interests| Systems / Quant / AI        │
+│           |                             │
+│  uptime   | still learning              │
+│  bugs     | yes                         │
+│           |                             │
+└─────────────────────────────────────────┘
+```
 
-**Languages:** C++, Python, Rust, TypeScript, JavaScript, SQL, Bash
+### `~/projects`
 
-**Systems & Tools:** Linux, Git, CMake, SQLite, Docker, Tauri
+```text
+paarth@archlinux:~$ tree ~/projects
 
-**Areas of Interest:**
-- Systems programming and performance optimization
-- Data structures, algorithms, and concurrency
-- Quantitative computing and trading infrastructure
-- Artificial intelligence and machine learning
-- Desktop application development
+projects/
+│
+├── ⚡ limit-book-order
+│   └── C++ · Low-latency trading infrastructure
+│
+├── 🐧 PH16-Linux-Support
+│   └── Python · Linux hardware control
+│
+├── 📈 QuantForge
+│   └── Python · Numerical experiments
+│
+└── ⚙️ cpp-systems-template
+    └── C++ · Memory, concurrency & performance
+```
 
----
+<div align="center">
 
-### 🚀 Featured Projects
+**[Order Book](https://github.com/ZoroXoXo/limit-book-order)** · **[Linux Utility](https://github.com/ZoroXoXo/PH16-Linux-Support)** · **[QuantForge](https://github.com/ZoroXoXo/QuantForge)** · **[C++ Systems](https://github.com/ZoroXoXo/cpp-systems-template)**
 
-**[Limit Order Book](https://github.com/ZoroXoXo/limit-book-order)**
+<sub>More experiments hiding in the repositories below ↓</sub>
 
-C++ limit order book implementation exploring memory management, cache-conscious design, and low-latency data structures.
-
-**[PH16 Linux Support](https://github.com/ZoroXoXo/PH16-Linux-Support)**
-
-A Linux hardware utility for Acer Predator Helios 16 laptops, featuring hardware monitoring, performance profiles, and a GTK4 interface.
-
-**[QuantForge](https://github.com/ZoroXoXo/QuantForge)**
-
-A quantitative signal research platform comparing numerical smoothing methods with image-based filtering through reproducible experiments.
-
-**[C++ Systems Template](https://github.com/ZoroXoXo/cpp-systems-template)**
-
-A C++ systems development environment for experimenting with concurrency, memory management, build tooling, and performance analysis.
-
-**[AI Stack](https://github.com/ZoroXoXo/ai-stack)**
-
-An experimental workspace for AI engineering, local development tools, and applied machine learning.
-
----
-
-### 📚 Currently Exploring
-
-- Modern C++ and systems programming
-- Data structures and algorithms
-- Computer architecture and operating systems
-- Neural networks and LLM engineering
-- Quantitative development
-
----
-
-### 📫 Connect
-
-- **GitHub:** [ZoroXoXo](https://github.com/ZoroXoXo)
-- **LinkedIn:** Add your profile link here
+</div>
 
 ---
 
-*Interested in understanding how things work, building useful tools, and continuously improving as an engineer.*
+---
+
+<div align="center">
+
+```text
+╭──────────────────────────────────╮
+│                                  │
+│  SYSTEM STATUS                   │
+│                                  │
+│  curiosity      [ ONLINE ]       │
+│  motivation     [ ONLINE ]       │
+│  sleep schedule [ UNKNOWN ]      │
+│  projects       [ IN PROGRESS ]  │
+│                                  │
+╰──────────────────────────────────╯
+```
+
+<sub>Powered by Linux, curiosity, and questionable project scope.</sub>
+
+</div>
